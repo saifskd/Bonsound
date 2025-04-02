@@ -267,7 +267,6 @@ header:hover .Artists1 {
   background-color: #50f71d;
 }
 .Corner1 {
-  margin: 20px 45px 0px 0px;
   background-color: #eec373;
 }
 .Corner1:hover {
@@ -298,7 +297,7 @@ header:hover .Artists1 {
 .Showsimagsboss {
   display: flex;
   align-items: center;
-  /* justify-content: space-between; */
+  justify-content: space-around;
   padding: 2px 0px;
   margin: 3px 0px;
   border-bottom: 1px solid #3f566d1f;
@@ -352,6 +351,7 @@ background: rgb(112, 132, 219);
 }
 .futercontent0 {
   display: flex;
+  justify-content: space-around;
   flex-wrap: wrap;
 }
 
